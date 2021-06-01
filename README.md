@@ -1,11 +1,15 @@
-# LemonJamsBot - Heroku
-## My fork of [this](https://github.com/tgcallsjs/LemonJamsBot) repository 
+# SINGER SOMAN - Heroku
+
+<p align="center">
+<a href = "https://github.com/theed221120/LemonJamsBot-Heroku.git" > <img src = "the " alt = "SINGER SOMAN"  width=240> </a>
+</p>
+## My fork of [this](https://github.com/theed221120/LemonJamsBot-Heroku.git) repository 
 
 To make this repo compatible with heroku and avoid unnecessary conflicts
 we have to break down this whole project into two different parts and
 deploy as different apps so let's get started.
 ### Webserver setup
-* deploy [this](https://github.com/CW4RR10R/LemonJamServer) repo in heroku (you can use ```deploy to heroku``` button for easy peasy deployment)
+* deploy [this](https://github.com/theed221120/LemonJamsBot-Heroku.git) repo in heroku (you can use ```deploy to heroku``` button for easy peasy deployment)
 * after deploying your app turn on the dyno and copy your app url (something like ```http://yourapp.herokuapp.com```)
 * That's it 
 
@@ -16,9 +20,9 @@ Here is the place where this repo (which you are reading this readme) comes into
 * click deploy and sit back until docker finishes the build
 * turn on your dyno (if its off)
 * if everything goes fine you should see something like ```@username is running...``` in the log
-* Voila!
+* ENJOY THE BOT IN YOUR CHAT😁
 
-### [Video tutorial](http://www.youtube.com/watch?v=SiP51auEfuo)
+### [Listen a Song](https://youtu.be/fqwXV909CfQ)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CW4RR10R/LemonJamsBot-Heroku/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theed221120/LemonJamsBot-Heroku.git)
