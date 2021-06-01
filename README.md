@@ -1,7 +1,7 @@
-# SINGER SOMAN - Heroku
+# SINGER SOMAN - BOT
 
 <p align="center">
-<a href = "https://github.com/theed221120/LemonJamsBot-Heroku.git" > <img src = "the " alt = "SINGER SOMAN"  width=240> </a>
+<a href = "https://github.com/theed221120/LemonJamsBot-Heroku.git" > <img src = "https://tginstantlink.herokuapp.com/70714" alt = "tgcf logo"  width=480> </a>
 </p>
 ## My fork of [this](https://github.com/theed221120/LemonJamsBot-Heroku.git) repository 
 
