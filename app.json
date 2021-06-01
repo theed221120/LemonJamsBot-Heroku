@@ -1,5 +1,5 @@
 {
-    "name":"SINGER SOMAN BOT",
+    "name":"lemonjamsbot",
     "description":"An example bot using tgcallsjs",
     "env":{
         "BOT_TOKEN":{
